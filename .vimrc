@@ -69,7 +69,7 @@ let g:cpp_experimental_template_highlight =1
 let g:cpp_no_function_highlight = 1
 
 set t_Co=256
-set background=dark
+set background=light
 let g:PaperColor_Theme_Options = {
   \   'language': {
   \     'python': {
